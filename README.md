@@ -1,7 +1,7 @@
 # 👋 Hi, I’m <strong><b>Kennedy Mwangi@ken-001-mk
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ken-001-mk.ken-001-mk)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/ken-001-mk)
+[![Github](https://img.shields.io/github/followers/ken-001-mk?label=Follow&style=social)](https://github.com/ken-001-mk)
 
 - 👀 I’m interested in ...computers
 - 🌱 I’m currently learning ...software engineering at alx
