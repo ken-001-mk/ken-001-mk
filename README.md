@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/ken-001-mk?label=Follow&style=social)](https://github.com/ken-001-mk)
 
 - 👀 I’m interested in ...computers
-- 🌱 I’m currently learning ...software engineering at alx
+- 🌱 I’m currently learning ...react
 - 💞️ I’m looking to collaborate on ...the world 
 
 ## ✉️ Find me on:
