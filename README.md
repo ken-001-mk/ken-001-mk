@@ -1,10 +1,10 @@
-# 👋 Hi, I’m <strong><b>Kennedy Mwangi@ken-001-mk
+# 👋 Hi, I’m Kennedy Mwangi  @ken-001-mk
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ken-001-mk.ken-001-mk)
 [![Github](https://img.shields.io/github/followers/ken-001-mk?label=Follow&style=social)](https://github.com/ken-001-mk)
 
 - 👀 I’m interested in ...computers
-- 🌱 I’m currently learning ...react
+- 🌱 I’m currently learning ...PHP
 - 💞️ I’m looking to collaborate on ...the world 
 
 ## ✉️ Find me on:
@@ -33,7 +33,7 @@
 <img src="https://github.com/ken-001-mk/ken-001-mk/assets/113457830/fa83b5d2-b08c-437b-a00e-8135fdd5db0f" alt="Git" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://github.com/ken-001-mk/ken-001-mk/assets/113457830/67b34799-e8d4-4574-8fbe-f1d44924546f" alt="HTML" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://github.com/ken-001-mk/ken-001-mk/assets/113457830/8c806590-02eb-4856-b599-98d09fa726cc" alt="Flask" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://github.com/ken-001-mk/ken-001-mk/assets/113457830/d1dd5d5a-b8a6-4777-ac76-90733aa19989" alt="MongoDb"     height="40" style="vertical-align:top; margin:4px" >
+<img src="https://github.com/ken-001-mk/ken-001-mk/assets/113457830/d1dd5d5a-b8a6-4777-ac76-90733aa19989" alt="MongoDb" height="40" style="vertical-align:top; margin:4px" >
 </p>
 <br>
 
